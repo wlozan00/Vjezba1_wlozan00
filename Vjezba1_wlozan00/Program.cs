@@ -8,6 +8,7 @@ namespace Vjezba1_wlozan00
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
-        }
+            Console.WriteLine("william je debil");
+        }   
     }
 }

@@ -7,6 +7,7 @@ namespace Vjezba1_wlozan00
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Novo");
         }
     }
 }

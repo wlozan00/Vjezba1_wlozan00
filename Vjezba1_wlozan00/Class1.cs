@@ -7,6 +7,6 @@ namespace Vjezba1_wlozan00
     class Class1
     {
         int metoda (){
-            reutrn 6;
+            reutrn 9;
     }
 }
